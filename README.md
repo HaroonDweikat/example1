@@ -1,2 +1,2 @@
 # task1
-https://haroondweikat.github.io/task1/
+https://haroondweikat.github.io/example1/
